@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SignLanguage">
         <activity
+            android:name=".Eng2SLActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SL2EngActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
