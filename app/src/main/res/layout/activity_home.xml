@@ -42,7 +42,7 @@
 
 
         <ImageView
-            android:id="@+id/nav_yoga"
+            android:id="@+id/nav_btn2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/nav_btn2"
@@ -54,7 +54,7 @@
             app:layout_constraintHorizontal_bias="0.375"/>
 
         <ImageView
-            android:id="@+id/nav_ailment"
+            android:id="@+id/nav_btn3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/nav_btn3"
